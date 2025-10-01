@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ]
+  ],
+  "legacy_uid": "95989dbe-2e4b-67a8-2c1c-64b89dcec87c",
+  "instructors": {
+    "content": [
+      "fbc64230-a89e-01a8-5657-8b0cfdef990f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0c364393-d620-4d71-9f0c-95f4ea746baa",
+    "website": "7-344-directed-evolution-engineering-biocatalysts-spring-2008"
+  },
+  "course_title": "Directed Evolution: Engineering Biocatalysts",
+  "hide_download": true,
+  "course_description": "Directed evolution has been used to produce enzymes with many unique properties. The technique of directed evolution comprises two essential steps: mutagenesis of the gene encoding the enzyme to produce a library of variants, and selection of a particular variant based on its desirable catalytic properties. In this course we will examine what kinds of enzymes are worth evolving and the strategies used for library generation and enzyme selection. We will focus on those enzymes that are used in the synthesis of drugs and in biotechnological applications.\n\nThis course is one of many\u00a0[Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars)\u00a0offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.344",
+  "course_image_thumbnail": {
+    "content": "4b073e85-4ffa-4611-70c8-04eb01f49722",
+    "website": "7-344-directed-evolution-engineering-biocatalysts-spring-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "f57bfa9b-b07d-4f47-811f-609ecc8f60b1",
+  "site_short_id": "7.344-spring-2008",
+  "site_url_path": "courses/7-344-directed-evolution-engineering-biocatalysts-spring-2008",
+  "title": "Course Metadata"
+}
